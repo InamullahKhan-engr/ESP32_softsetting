@@ -1,2 +1,2 @@
 # ESP32_softsetting
-this ESP32 local server based ESP32 soft wifi, and IP setting user interface
+this ESP32 local server based ESP32 soft wifi, and IP setting user interface and also ota features. the there are different way to update firmwar to board thourght online upload from Arduino IDE, or just from the link to past in the web based user interface or from the server after you connect it to your server. once you upload the this code to esp32 and connect it to it wifi your phone or PC now it will need the login to configuration page where you can set the wifi network credentilas and also can change the ESP32 IP adress etc.
